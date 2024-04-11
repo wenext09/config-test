@@ -4,6 +4,7 @@
   "backup_host": ["appback.wenext.website"],
   "dns": {
     "lama.wenext.love": "'47.241.214.163",
-    "lama.wenext.icu": "47.241.214.163"
+    "lama.wenext.icu": "47.241.214.163",
+    "appback.wenext.website": "47.236.187.182"
   }
 }
