@@ -1,0 +1,12 @@
+{
+    "replace": {
+        "lama.wenext.love": "appback.wenext.website",
+        "lama.wenext.icu": "appback.wenext.website"
+    },
+    "host": [
+        "appback.wenext.website"
+    ],
+    "dns": {
+        "appback.wenext.website": "8.214.28.0"
+    }
+}
