@@ -1,0 +1,9 @@
+{
+  "replace": {},
+  "host": ["wayak.wenext.chat", "wayak.wenext.technology"],
+  "backup_host": [],
+  "dns": {
+    "wayak.wenext.chat": "43.131.7.185",
+    "wayak.wenext.technology": "43.131.7.185"
+  }
+}
