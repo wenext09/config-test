@@ -1,8 +1,9 @@
 {
   "replace": {},
   "host": ["weparty.wenext.cloud"],
-  "backup_host": [],
+  "backup_host": ["wepartyback.wenext.website"],
   "dns": {
-    "weparty.wenext.cloud": "162.62.97.46"
+    "weparty.wenext.cloud": "162.62.97.46",
+    "wepartyback.wenext.website":"162.62.97.46"
   }
 }
