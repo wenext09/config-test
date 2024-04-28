@@ -1,7 +1,7 @@
 {
   "replace": {},
   "host": ["ludo.wenext.games", "ludo.wenext.plus"],
-  "backup_host": [],
+  "backup_host": ["ludoback.wenext.website"],
   "dns": {
     "ludo.wenext.games": "43.157.69.165",
     "ludo.wenext.plus": "43.157.69.165"
