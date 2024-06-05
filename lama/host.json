@@ -1,7 +1,7 @@
 {
   "replace": {},
   "host": ["lama.wenext.love", "lama.wenext.icu"],
-  "backup_host": ["appback.wenext.website"],
+  "backup_host": ["lamaeo.wenext.icu","lamaeo.wenext.love","appback.wenext.website"],
   "dns": {
     "lama.wenext.love": "47.241.214.163",
     "lama.wenext.icu": "47.241.214.163",
