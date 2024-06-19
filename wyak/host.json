@@ -1,6 +1,6 @@
 {
   "replace": {},
-  "host": ["wayak.wenext.chat", "wayak.wenext.technology"],
+  "host": ["wyakeo.wenext.chat", "wyakeo.wenext.technology"],
   "backup_host": ["wyakeo.wenext.chat", "wyakeo.wenext.technology", "wyakback.wenext.website"],
   "dns": {
     "wayak.wenext.chat": "43.131.7.185",
