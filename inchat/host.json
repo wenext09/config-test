@@ -1,0 +1,8 @@
+{
+  "replace": {},
+  "host": ["www.wenextinchat.com"],
+  "backup_host": ["www.wenextinchat.com"],
+  "dns": {
+    "www.wenextinchat.com": "43.158.121.73"
+  }
+}
