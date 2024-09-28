@@ -3,6 +3,6 @@
   "host": ["wenextinchat.com"],
   "backup_host": ["wenextinchat.com"],
   "dns": {
-    "wenextinchat.com": "43.158.121.73",
+    "wenextinchat.com": "43.158.121.73"
   }
 }
