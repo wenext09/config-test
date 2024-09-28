@@ -1,9 +1,8 @@
 {
-  "replace": {},
-  "host": ["wenextinchat.com","dcdn.wenextinchat.com"],
-  "backup_host": ["wenextinchat.com","dcdn.wenextinchat.com"],
+  "replace": {"dcdn.wenextinchat.com":"wenextinchat.com"},
+  "host": ["wenextinchat.com"],
+  "backup_host": ["wenextinchat.com"],
   "dns": {
     "wenextinchat.com": "43.158.121.73",
-    "dcdn.wenextinchat.com": "43.158.121.73"
   }
 }
