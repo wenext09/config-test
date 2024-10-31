@@ -1,7 +1,9 @@
 {
   "replace": {
     "h5-greedy.wenext.games": "h5-greedy.shentou.club",
-    "h5-new-greedy.wenext.games": "h5-new-greedy.shentou.club"
+    "h5-new-greedy.wenext.games": "h5-new-greedy.shentou.club",
+    "h5-greedy.wenext.plus": "h5-greedy.shentou.club",
+    "h5-new-greedy.wenext.plus": "h5-new-greedy.shentou.club"
   },
   "host": ["ludo.wenext.games", "ludo.wenext.plus"],
   "backup_host": ["ludoback.wenext.website"],
