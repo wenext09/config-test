@@ -1,7 +1,20 @@
 {
-  "replace": {},
-  "host": ["lama.wenext.love", "lama.wenext.icu"],
-  "backup_host": ["lamaeo.wenext.icu","lamaeo.wenext.love","appback.wenext.website"],
+  "replace": {
+    "wenext-lama.oss-ap-southeast-1.aliyuncs.com": "lama-cf.wenext.media",
+    "wenext-lama.oss-accelerate.aliyuncs.com": "lama-cf.wenext.media",
+    "lama.wenext.media": "lama-cf.wenext.media",
+    "wenext.oss-cn-hangzhou.aliyuncs.com": "lama-cf.wenext.media",
+    "wenext-lama.oss-accelerate-overseas.aliyuncs.com": "lama-cf.wenext.media"
+  },
+  "host": [
+    "lama.wenext.love",
+    "lama.wenext.icu"
+  ],
+  "backup_host": [
+    "lamaeo.wenext.icu",
+    "lamaeo.wenext.love",
+    "appback.wenext.website"
+  ],
   "dns": {
     "lama.wenext.love": "47.241.214.163",
     "lama.wenext.icu": "47.241.214.163",
