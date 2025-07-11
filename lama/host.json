@@ -4,7 +4,8 @@
     "wenext-lama.oss-accelerate.aliyuncs.com": "lama-cf.wenext.media",
     "lama.wenext.media": "lama-cf.wenext.media",
     "wenext.oss-cn-hangzhou.aliyuncs.com": "lama-cf.wenext.media",
-    "wenext-lama.oss-accelerate-overseas.aliyuncs.com": "lama-cf.wenext.media"
+    "wenext-lama.oss-accelerate-overseas.aliyuncs.com": "lama-cf.wenext.media",
+    "web.wenext.love": "web-cf.wenext-lama.chat"
   },
   "host": [
     "lama.wenext.love",
